@@ -12,3 +12,5 @@ https://ashutoshrajoriya71.github.io/Travel-Expert-Project/about.html
 ## Services
 https://ashutoshrajoriya71.github.io/Travel-Expert-Project/services.html
 ![services](https://user-images.githubusercontent.com/109854678/190630004-af40a608-5bc5-4056-88cc-dbda0c4c70ce.png)
+## Azure portal sceenshot
+![Screenshot 2022-09-20 205314](https://user-images.githubusercontent.com/109854678/191299318-0130a06d-58e8-4f1b-b07c-9003df0de9d2.png)
